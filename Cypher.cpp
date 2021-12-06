@@ -210,7 +210,3 @@ std::string decryptVigenere(std::string ciphertext, std::string keyword)
 	}
 	return ciphertext;
 }
-STUDENT
-Youssef Elshabasy
-AUTOGRADER SCORE
-5.0 / 5.0
